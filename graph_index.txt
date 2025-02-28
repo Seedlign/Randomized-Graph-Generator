@@ -1,0 +1,4 @@
+cycle1
+acyclic2
+acyclic2
+acyclic3
